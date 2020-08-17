@@ -1,0 +1,5 @@
+{
+    "require": {
+        "doctrine/event-manager": "^1.1"
+    }
+}
